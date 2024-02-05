@@ -1,4 +1,4 @@
 # Tooling
 Tooling for other applications
 
-Zmiana w feature 1. 
+Zmiana w feature - ostateczna
